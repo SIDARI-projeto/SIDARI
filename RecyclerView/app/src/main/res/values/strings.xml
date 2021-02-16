@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">RecyclerView</string>
+    <string name="user">User:</string>
+    <string name="username">Username:</string>
+    <string name="ordenar_por">Ordenar por:</string>
+    <string name="fuga_img">Fuga_img</string>
+    <string name="perigo_img">perigo_img</string>
+    <string name="apagar_btn">apagar_btn</string>
+    <string-array name="ordenacao">
+        <item>Data(mais antigo)</item>
+        <item>Data(mais recente)</item>
+        <item>Valor(maior)</item>
+        <item>Valor(menor)</item>
+    </string-array>
+</resources>

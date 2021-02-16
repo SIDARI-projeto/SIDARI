@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Teste</string>
+    <string name="blabkabak">blabkabak</string>
+    <string name="button">Button</string>
+    <string name="name">Name</string>
+    <string name="textview">TextView</string>
+    <string name="texto">texto</string>
+    <string name="nome">Nome</string>
+</resources>
